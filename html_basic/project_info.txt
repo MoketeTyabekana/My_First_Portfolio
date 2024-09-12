@@ -5,6 +5,7 @@ However, in order to start getting consistency throughout the website, all of th
 
 The <body> tag of all of your webpages must contain exactly three direct sub-tags in that order: <header>, <main> and <footer>
 The <header> tag must contain an unordered list (the <ul> and <li> tags) of links (the <a> tag) to each of your webpages. As you may have understood, this will serve as a navigation for your website.
+
 The <footer> tag must contain one paragraph with the sentence Made by <YOUR NAME> - <a href="<ANY LINK>" target="_blank">here</a>.
 The <main> tag must contain two direct sub-tags in that order: <article> and <aside>:
 <article> contains the content of your webpage: texts, links, images, tweets, … This is the part of index.html and tweets.html that you have already written.
