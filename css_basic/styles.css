@@ -1,15 +1,22 @@
+body,
+main {
+  display: flex;
+}
 
+body {
+  flex-direction: column;
+  height: 100vh;
+}
 
-body, main{
-    display: flex;
-   }
+main {
+  flex-direction: row;
+  flex: auto;
+}
 
-   body{
-    flex-direction: column;
-   }
+main article {
+  flex: 2;
+}
 
-   main{
-    flex-direction: row;
-   }
-
- 
+main aside {
+  flex: 1;
+}
