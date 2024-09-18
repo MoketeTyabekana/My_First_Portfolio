@@ -9,6 +9,21 @@ main {
   display: flex;
 }
 
+header{
+   padding: 20px 40px;
+   background-color: #00378a;
+}
+
+li{
+    
+    list-style: none;
+    display: inline-flex;
+    
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
 body {
   flex-direction: column;
   height: 100vh;
